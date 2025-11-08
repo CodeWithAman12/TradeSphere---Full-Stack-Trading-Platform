@@ -1,4 +1,4 @@
-# 📈 TradeSphere - Full-Stack-Trading-Platform
+# 📈 TradeSphere---Full-Stack-Trading-Platform
 
 
 OneStock is a modern, responsive, and feature-rich full-stack trading platform built using the MERN Stack (MongoDB, Express.js, React.js, Node.js). It provides users with a smooth experience for viewing, managing, and analyzing stocks in real-time.
